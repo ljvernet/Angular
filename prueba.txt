@@ -1,2 +1,6 @@
 prueba 1
+<<<<<<< HEAD
 prueba 2
+=======
+inserto 2 linea
+>>>>>>> origin/branch1
